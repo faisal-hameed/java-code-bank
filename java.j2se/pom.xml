@@ -9,5 +9,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>java.j2se.collections</module>
+  	<module>java.j2se.jfreechart</module>
   </modules>
 </project>
