@@ -2,14 +2,9 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>pk.com.habsoft</groupId>
-    <artifactId>java-code-bank</artifactId>
+    <artifactId>java.j2se</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>java.j2se</artifactId>
-  <packaging>pom</packaging>
-  <modules>
-  	<module>java.j2se.collections</module>
-  	<module>java.j2se.jfreechart</module>
-  	<module>java.j2se.preferences</module>
-  </modules>
+  <artifactId>java.j2se.preferences</artifactId>
+  <name>Java Preferences</name>
 </project>
