@@ -1,0 +1,3785 @@
+<diffgr:diffgram xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1"
+	xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<DS_PositionsReport xmlns="http://tempuri.org/DS_PositionsReport.xsd">
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport1"
+			msdata:rowOrder="0">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>43</TOTBUY>
+			<TOTSEL>43</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport2"
+			msdata:rowOrder="1">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>11</TOTBUY>
+			<TOTSEL>11</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport3"
+			msdata:rowOrder="2">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport4"
+			msdata:rowOrder="3">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>375</TOTBUY>
+			<TOTSEL>489</TOTSEL>
+			<NETPOS>-114</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport5"
+			msdata:rowOrder="4">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>1</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport6"
+			msdata:rowOrder="5">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>77</TOTBUY>
+			<TOTSEL>77</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport7"
+			msdata:rowOrder="6">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>18648</TOTBUY>
+			<TOTSEL>18648</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport8"
+			msdata:rowOrder="7">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>SL500OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport9"
+			msdata:rowOrder="8">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2170</TOTBUY>
+			<TOTSEL>2170</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport10"
+			msdata:rowOrder="9">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport11"
+			msdata:rowOrder="10">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>162</TOTBUY>
+			<TOTSEL>162</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport12"
+			msdata:rowOrder="11">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>19</TOTBUY>
+			<TOTSEL>19</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport13"
+			msdata:rowOrder="12">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>120</TOTBUY>
+			<TOTSEL>120</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport14"
+			msdata:rowOrder="13">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>31</TOTBUY>
+			<TOTSEL>31</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport15"
+			msdata:rowOrder="14">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>50</TOTBUY>
+			<TOTSEL>50</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport16"
+			msdata:rowOrder="15">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLDKILO</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport17"
+			msdata:rowOrder="16">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>TGOLD50</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>6</TOTBUY>
+			<TOTSEL>6</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport18"
+			msdata:rowOrder="17">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>21</TOTBUY>
+			<TOTSEL>21</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport19"
+			msdata:rowOrder="18">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>2491</TOTBUY>
+			<TOTSEL>2491</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport20"
+			msdata:rowOrder="19">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AP11</CONTRACT_DATE>
+			<TOTBUY>6029</TOTBUY>
+			<TOTSEL>6029</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport21"
+			msdata:rowOrder="20">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE11</CONTRACT_DATE>
+			<TOTBUY>2536</TOTBUY>
+			<TOTSEL>1913</TOTSEL>
+			<NETPOS>623</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport22"
+			msdata:rowOrder="21">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JU10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport23"
+			msdata:rowOrder="22">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>SE10</CONTRACT_DATE>
+			<TOTBUY>9674</TOTBUY>
+			<TOTSEL>9674</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport24"
+			msdata:rowOrder="23">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MA11</CONTRACT_DATE>
+			<TOTBUY>1865</TOTBUY>
+			<TOTSEL>1865</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport25"
+			msdata:rowOrder="24">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport26"
+			msdata:rowOrder="25">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport27"
+			msdata:rowOrder="26">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport28"
+			msdata:rowOrder="27">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>5298</TOTBUY>
+			<TOTSEL>5298</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport29"
+			msdata:rowOrder="28">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE100</CONTRACT>
+			<CONTRACT_DATE>OC10</CONTRACT_DATE>
+			<TOTBUY>22</TOTBUY>
+			<TOTSEL>22</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport30"
+			msdata:rowOrder="29">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>FE11</CONTRACT_DATE>
+			<TOTBUY>1560</TOTBUY>
+			<TOTSEL>1560</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport31"
+			msdata:rowOrder="30">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport32"
+			msdata:rowOrder="31">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY10</CONTRACT_DATE>
+			<TOTBUY>4</TOTBUY>
+			<TOTSEL>4</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport33"
+			msdata:rowOrder="32">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>NO10</CONTRACT_DATE>
+			<TOTBUY>3</TOTBUY>
+			<TOTSEL>3</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport34"
+			msdata:rowOrder="33">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JU11</CONTRACT_DATE>
+			<TOTBUY>2056282</TOTBUY>
+			<TOTSEL>2056282</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport35"
+			msdata:rowOrder="34">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO100OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>2</TOTBUY>
+			<TOTSEL>2</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport36"
+			msdata:rowOrder="35">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>20</TOTBUY>
+			<TOTSEL>20</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport37"
+			msdata:rowOrder="36">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GOLD</CONTRACT>
+			<CONTRACT_DATE>JY11</CONTRACT_DATE>
+			<TOTBUY>16</TOTBUY>
+			<TOTSEL>0</TOTSEL>
+			<NETPOS>16</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport38"
+			msdata:rowOrder="37">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>JA11</CONTRACT_DATE>
+			<TOTBUY>2252</TOTBUY>
+			<TOTSEL>2252</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport39"
+			msdata:rowOrder="38">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>AU10</CONTRACT_DATE>
+			<TOTBUY>456</TOTBUY>
+			<TOTSEL>456</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport40"
+			msdata:rowOrder="39">
+			<TRADER_ACCOUNT>TRDZ100010</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>DE10</CONTRACT_DATE>
+			<TOTBUY>8</TOTBUY>
+			<TOTSEL>8</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport41"
+			msdata:rowOrder="40">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>GO1OZ</CONTRACT>
+			<CONTRACT_DATE>MY11</CONTRACT_DATE>
+			<TOTBUY>94097</TOTBUY>
+			<TOTSEL>94097</TOTSEL>
+			<NETPOS>0</NETPOS>
+		</TB_PositionsReport>
+		<TB_PositionsReport diffgr:id="TB_PositionsReport42"
+			msdata:rowOrder="41">
+			<TRADER_ACCOUNT>TRDZ100011</TRADER_ACCOUNT>
+			<CONTRACT>CRUDE10</CONTRACT>
+			<CONTRACT_DATE>AU11</CONTRACT_DATE>
+			<TOTBUY>0</TOTBUY>
+			<TOTSEL>1</TOTSEL>
+			<NETPOS>-1</NETPOS>
+		</TB_PositionsReport>		
+	</DS_PositionsReport>
+</diffgr:diffgram>

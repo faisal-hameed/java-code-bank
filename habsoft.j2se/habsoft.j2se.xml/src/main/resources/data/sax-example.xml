@@ -1,0 +1,12 @@
+<driverVehicleInfo>
+    <driver>
+        <driverId>1</driverId>
+        <name>kahsi khalid</name>        
+        <vehicleId>1</vehicleId>        
+    </driver>
+    <driver>
+        <driverId>2</driverId>
+        <name>Joe Blocks</name>
+        <vehicleId>3</vehicleId>
+    </driver>
+</driverVehicleInfo>

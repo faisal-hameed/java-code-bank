@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <server name="faisal">
+        <room name="room1">
+            <terminal>1</terminal>
+            <maxTime>10000</maxTime>
+        </room>
+        <room name="room2">
+            <terminal>2</terminal>
+            <maxTime>20000</maxTime>
+        </room>        
+    </server>
+    <server name="rida">
+        <room name="room3">
+            <terminal>1</terminal>
+            <maxTime>10000</maxTime>
+        </room>
+        <room name="room4">
+            <terminal>2</terminal>
+            <maxTime>20000</maxTime>
+        </room>        
+    </server>
+</data>
