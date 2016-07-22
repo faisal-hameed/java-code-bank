@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+    <parent id="http://www.kse.com.pk/notices-updates/detail2.php?id=4&amp;nid=032382" name="abc">
+        <child id="child id 1">1</child>
+        <child id="child id 2">2</child>
+    </parent>
+    <parent id="2222222222" name="abc">
+        <child id="child id 1">3</child>
+        <child id="child id 2">4</child>
+    </parent>   
+
+</contents>
