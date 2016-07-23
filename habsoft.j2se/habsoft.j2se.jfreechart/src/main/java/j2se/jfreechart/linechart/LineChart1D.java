@@ -12,7 +12,8 @@ public class LineChart1D extends ApplicationFrame {
 
 	public LineChart1D(String applicationTitle, String chartTitle) {
 		super(applicationTitle);
-		JFreeChart lineChart = ChartFactory.createLineChart(chartTitle, "Years", "Number of Schools", createDataset(),
+		JFreeChart lineChart = ChartFactory.createLineChart(chartTitle,
+				"Years", "Number of Schools", createDataset(),
 				PlotOrientation.VERTICAL, true, true, false);
 
 		ChartPanel chartPanel = new ChartPanel(lineChart);
@@ -32,7 +33,8 @@ public class LineChart1D extends ApplicationFrame {
 	}
 
 	public static void main(String[] args) {
-		LineChart1D chart = new LineChart1D("School Vs Years", "Numer of Schools vs years");
+		LineChart1D chart = new LineChart1D("School Vs Years",
+				"Numer of Schools vs years");
 
 		chart.pack();
 		RefineryUtilities.centerFrameOnScreen(chart);
