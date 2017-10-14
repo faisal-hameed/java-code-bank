@@ -11,32 +11,32 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class MyConfigurations {
 
-	@Value("${app.name}")
-	String appName;
+    @Value("${app.name}")
+    String appName;
 
-	@Value("${app.version}")
-	String appVersion;
+    @Value("${app.version}")
+    String appVersion;
 
-	@Value("#{'${app.team}'.split(',')}")
-	private List<String> team;
+    @Value("#{'${app.team}'.split(',')}")
+    private List<String> team;
 
-	public MyConfigurations() {
-		System.out.println("Constructor");
-	}
+    public MyConfigurations() {
+        System.out.println("Constructor");
+    }
 
-	@PostConstruct
-	public void doProcess() {
-		System.out.println("Post Construct Values : " + this);
-	}
+    @PostConstruct
+    public void doProcess() {
+        System.out.println("Post Construct Values : " + this);
+    }
 
-	@PreDestroy
-	public void destroy() {
-		System.out.println("Cleanup task");
-	}
+    @PreDestroy
+    public void destroy() {
+        System.out.println("Cleanup task");
+    }
 
-	@Override
-	public String toString() {
-		return "MyConfigurations [appName=" + appName + ", appVersion=" + appVersion + ", team=" + team + "]";
-	}
+    @Override
+    public String toString() {
+        return "MyConfigurations [appName=" + appName + ", appVersion=" + appVersion + ", team=" + team + "]";
+    }
 
 }
