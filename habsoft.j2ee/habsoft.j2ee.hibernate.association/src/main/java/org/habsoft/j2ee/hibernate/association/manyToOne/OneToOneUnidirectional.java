@@ -24,6 +24,7 @@ public class OneToOneUnidirectional extends BaseDao {
 
         Student student1 = new Student("Shami");
         Address address1 = new Address("OMR Road", student1);
+        save(student1);
         save(address1);
 
     }
@@ -55,7 +56,7 @@ public class OneToOneUnidirectional extends BaseDao {
         private long id;
         private String street;
 
-        @OneToOne(cascade = CascadeType.ALL)
+        @OneToOne()
         private Student student;
 
         public Address() {

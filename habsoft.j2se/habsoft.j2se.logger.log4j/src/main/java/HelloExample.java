@@ -13,6 +13,7 @@ public class HelloExample {
 
     private void runMe(String parameter) {
 
+        logger.trace("This is trace : " + parameter);
         if (logger.isDebugEnabled()) {
             logger.debug("This is debug : " + parameter);
         }

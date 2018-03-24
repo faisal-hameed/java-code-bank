@@ -17,5 +17,6 @@
   	<module>habsoft.j2se.xml</module>
   	<module>habsoft.j2se.generics</module>
   	<module>habsoft.j2se.logger.log4j</module>
+  	<module>habsoft.j2se.annotation</module>
   </modules>
 </project>
